@@ -1,6 +1,6 @@
 # Destination: Banana | Group Project
 **Overview:**
-Destination: Banana is a web game built around the Wikipeida API. The goal of this project was to build an application around an API, complimented by technologies new we taught ourselves to use. 
+Destination: Banana is a web game built around the Wikipeida API. The goal of this project was to build an application around an API, complimented by new technologies we taught ourselves to use. 
 
 [Check out the beta version here!](https://destination-banana.vercel.app/)
 
